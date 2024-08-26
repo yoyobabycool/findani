@@ -26,4 +26,20 @@ This game is deployed and hosted on **GitHub Pages**. You can play it directly [
 - **YouTube API**: For embedding and controlling the video that plays when Anirudh is found.
 
 ## 📂 Project Structure
+find-ani/ 
+├── index.html # Main HTML file 
+├── style.css # CSS file for styling 
+├── script.js # JavaScript file for game logic
+├── chuttamalli.mp3 # Audio snippet from the song Chutmalle 
+└── README.md # This README file
+
+## 📜 License
+
+This project is open-source and available under the MIT License. Feel free to contribute, modify, and share!
+
+## 🎉 Acknowledgements
+
+- **Anirudh Ravichander** for the inspiration and the snippet from his song **Chutmalli**.
+- **You** for playing the game!
+
 
