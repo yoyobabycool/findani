@@ -45,7 +45,7 @@ function revealani() {
     const ani = document.createElement('div');
     ani.id = 'ani';
     ani.style.left = `0px`;
-    ani.style.top = 0px`;
+    ani.style.top = `0px`;
     ani.style.position = 'absolute';
     ani.style.display = 'block';
     gameArea.appendChild(ani);
