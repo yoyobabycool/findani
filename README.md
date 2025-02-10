@@ -1,6 +1,7 @@
 # Find Ani - A Fun Interactive Game
 
-Welcome to **Find Ani**, an interactive game where you search for the hidden singer **Anirudh**! Instead of a cow, this game features Anirudh, and the sound you hear while searching is a small part of his recently released song **chuttamalle**, https://www.youtube.com/watch?v=5vsOv_bcnhs
+Welcome to **Find Ani**, an interactive game where you search for the hidden singer **Anirudh**! Instead of a cow, this game features Anirudh, and the sound you hear while searching is a small part of his recently released song **chuttamalle**, Ed Sheeran's first Telugu song
+https://www.youtube.com/watch?v=5vsOv_bcnhs
 
 ## 🎮 How to Play
 
